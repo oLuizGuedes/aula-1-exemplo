@@ -33,7 +33,6 @@ Se quiser trocar uma ideia ou compartilhar dicas, me avise! 😊
 ---
  
 **Obrigado por visitar meu repositório!** ✨
->>>>>>> .merge_file_gcyfE7
 
 ## 🌱 Tecnologias que estou aprendendo:
  
